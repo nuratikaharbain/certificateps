@@ -1,0 +1,37 @@
+
+.box {
+    padding: 2em;
+    color: #000000;
+}
+.registration {
+    background-color: #ffe97d;
+}
+.important-dates {
+    background-color: #d1d1e1;
+}
+.rules {
+    background-color: #c0ebf1;
+}
+.countdown {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.countdown .time_left {
+    border-radius: 8px;
+    background-color: #3DA8CC;
+    font-size: 23px;
+    font-family: monospace;
+    color: #000000;
+    padding: 0.5em;
+}
+.countdown .time_description {
+    font-size: 23px;
+    font-family: monospace;
+    color: #000000;
+}
+.countdown .element_conteiner {
+    min-width: 90px;
+    display: inline-block;
+    margin: 0 0.5em;
+}
